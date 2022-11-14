@@ -4,6 +4,6 @@
 // const link2 = adminLink || "shohag"
 // const link3 = adminLink || "sajjad"
 // console.log(link1,link2,link3)
-export default Link = {
+const Link = {
     mssage:"hello"
 }
